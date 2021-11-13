@@ -1,0 +1,25 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "blockchain using js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsal-parmar/blockchain-js.git"
+  },
+  "author": "vatsal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vatsal-parmar/blockchain-js/issues"
+  },
+  "homepage": "https://github.com/vatsal-parmar/blockchain-js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "js-sha256": "^0.9.0",
+    "url": "^0.11.0",
+    "uuid": "^8.3.2"
+  }
+}
